@@ -5,8 +5,8 @@
 
 
 ### I'm a student, developer and Explorer!
-
-&nbsp; <br> - 🌱 I’m currently learning everything 🤣
+&nbsp; <br> 
+- 🌱 I’m currently learning everything 🤣
 - 💪 I’m looking forward to get an internship job
 - 🥅 2022 Goals: Learn more about data science
 - ⚡ Fun fact: I love to dance, listen to music and read books 
@@ -37,7 +37,6 @@
 <br />
 
 ### Spotify Playing 🎧
-
 &nbsp; <br> [![Spotify](https://novatorem-5cuj7o1df-nipadasgupta/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Nipantika.nipa)
 
 <br />
