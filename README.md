@@ -12,10 +12,9 @@
 ## Connect with me:
 
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
-[![twitter]("./images/twitter-png-5986.png")][twitter]
-[![linkedin]("./images/linkedin-png-5852.png")][linkedin]
-[![instagram]("./images/logo-instagram-png-13560.png")][instagram]
-[![facebook]("./images/facebook-logo-png-6383.png")][facebook]
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
 
 ---
 
