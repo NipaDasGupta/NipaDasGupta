@@ -37,7 +37,7 @@
 <br />
 
 ### Spotify Playing 🎧
-&nbsp; <br> [![Spotify](https://novatorem-5cuj7o1df-nipadasgupta/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/Nipantika.nipa)
+&nbsp; <br> [![Spotify](https://novatorem-5cuj7o1df-nipadasgupta/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nipa)
 
 <br />
 <br />
