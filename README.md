@@ -1,13 +1,12 @@
 ### Hi there, I'm Nipa 👋
 
-![Twitter Followers](https://img.shields.io/twitter/follow/nipa_das_gupta?logo=twitter&style=social)](https://twitter.com/nipa_das_gupta)
-
-![Github Followers](https://img.shields.io/github/followers/Nipa%20Das%20Gupta?style=social)](https://github.com/NipaDasGupta)
+![Twitter Followers](https://img.shields.io/twitter/follow/nipa_das_gupta?color=purple&logo=twitter&style=for-the-badge)]
+![Github Followers](https://img.shields.io/github/followers/NipaDasGupta?style=for-the-badge)]
 
 
 ### I'm a Student, Developer, and Explorer!!
 
-- 🔭 Check out my Final Year Project Code : [https://github.com/NipaDasGupta/Drowsiness-Detector][portfolio]!
+- 🔭 Check out my Final Year Project Code : [https://nipadasgupta.github.io/Portfolio/?fbclid=IwAR340R_CdTxGJ-m0zor3gAAV32IqnqJR_lXhM8l0de9lYRDGNTIfvcf7o5U][portfolio]!
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💼 I’m looking forward to get an internship job
 - 🥅 2022 Goals: Learn more about data science
@@ -16,17 +15,17 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/nipa_das_gupta#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/nipa_das_gupta#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/nipa_das_gupta/#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/nipa_das_gupta/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nipa-das-gupta#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nipa-das-gupta#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/nipa-das-gupta#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nipa-das-gupta#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nipa_das_gupta#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nipa_das_gupta#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/nipa_das_gupta#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/nipa_das_gupta#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100075298908129#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/profile.php?id=100075298908129#gh-dark-mode-only)
+[![facebook](./img/facebook-light.svg)](https://www.facebook.com/profile.php?id=100075298908129#gh-light-mode-only)
+[![facebook](./img/facebook-dark.svg)](https://www.facebook.com/profile.php?id=100075298908129#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -41,10 +40,7 @@
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 <br />
 <br />
