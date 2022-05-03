@@ -11,10 +11,10 @@
 
 ## Connect with me:
 
-[![twitter]("D:\NipaDasGupta\images\twitter-png-5986.png")][twitter]
-[![linkedin]("D:\NipaDasGupta\images\linkedin-png-5852.png")][linkedin]
-[![instagram]("D:\NipaDasGupta\images\logo-instagram-png-13560.png")][instagram]
-[![facebook]("D:\NipaDasGupta\images\facebook-logo-png-6383.png")][facebook]
+[![twitter](".\images\twitter-png-5986.png")][twitter]
+[![linkedin](".\images\linkedin-png-5852.png")][linkedin]
+[![instagram](".\images\logo-instagram-png-13560.png")][instagram]
+[![facebook](".\images\facebook-logo-png-6383.png")][facebook]
 
 ---
 
