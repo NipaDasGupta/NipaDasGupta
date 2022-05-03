@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img align="left" alt="Eresh's GitHub Stats" src="https://<--Your vercel instance for stats-->/api?username=ereshzealous&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NipaDasGupta=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 
