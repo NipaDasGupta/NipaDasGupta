@@ -37,16 +37,8 @@
 <br />
 
 ### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-5cuj7o1df-nipadasgupta/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nipa)
-
-  </td>
-  <td width="50%">
-<br />
-<br />
+&nbsp; <br> [<img src="https://https://novatorem-git-master-nipadasgupta.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/nipa)
 
 [twitter]: https://twitter.com/nipa_das_gupta
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
