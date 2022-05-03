@@ -1,7 +1,7 @@
 ## Hi there, My name is Nipa 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nipa_das_gupta?color=orange&style=for-the-badge)][twitter]
-![Github Follow](https://img.shields.io/github/followers/NipaDasGupta?color=purple&logo=github&style=for-the-badge)[github]
+![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)[portfolio]
 
 ## I'm a student, developer and Explorer!
 - 🌱 I’m currently learning everything 🤣
@@ -16,4 +16,4 @@
 ---
 
 [twitter]: https://twitter.com/nipa_das_gupta
-[github]: https://github.com/NipaDasGupta
+[portfolio]: https://nipadasgupta.github.io/Portfolio
