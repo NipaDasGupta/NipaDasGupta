@@ -31,7 +31,7 @@
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />
 <br>
 
-### :star::star::star: StackOverflow Activity
+### 💖 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
