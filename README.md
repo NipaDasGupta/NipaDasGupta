@@ -11,9 +11,15 @@
 
 ## Connect with me:
 
-
+[![twitter]("D:\NipaDasGupta\images\twitter-png-5986.png")][twitter]
+[![linkedin]("D:\NipaDasGupta\images\linkedin-png-5852.png")][linkedin]
+[![instagram]("D:\NipaDasGupta\images\logo-instagram-png-13560.png")][instagram]
+[![facebook]("D:\NipaDasGupta\images\facebook-logo-png-6383.png")][facebook]
 
 ---
 
 [twitter]: https://twitter.com/nipa_das_gupta
+[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
+[instagram]: https://www.instagram.com/nipa_das_gupta
+[facebook]: https://www.facebook.com/profile.php?id=100075298908129
 [portfolio]: https://nipadasgupta.github.io/Portfolio
