@@ -38,7 +38,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-bay-theta.vercel.app/api/spotify)](https://open.spotify.com/user/31clohyizyt2l2uf5adjm6it635a)
+[![Spotify](https://novatorem-bay-theta.vercel.app/api/spotify)](https://open.spotify.com/user/Nipantika.nipa)
 <br />
 <br />
 
