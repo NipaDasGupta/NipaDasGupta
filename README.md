@@ -44,8 +44,3 @@
 
 <br />
 <br />
-
-[twitter]: https://twitter.com/nipa_das_gupta
-[instagram]: https://www.instagram.com/nipa_das_gupta
-[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
-[facebook]: https://www.facebook.com/profile.php?id=100075298908129
