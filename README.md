@@ -38,6 +38,7 @@
 
 ### Spotify Playing 🎧
 
+&nbsp; <br> [![Spotify](https://novatorem-bay-theta.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/NipaDasGupta)
 [![Spotify](https://novatorem-bay-theta.vercel.app/api/spotify)](https://open.spotify.com/user/NipaDasGupta)
 <br />
 <br />
