@@ -36,11 +36,11 @@
 <br />
 <br />
 
-<!--START_SECTION:activity-->
-<br />
-<br />
+### Spotify Playing 🎧
 
----
+[![Spotify](https://novatorem-bay-theta.vercel.app/api/spotify)](https://open.spotify.com/user/NipaDasGupta)
+<br />
+<br />
 
 [twitter]: https://twitter.com/nipa_das_gupta
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
