@@ -1,13 +1,13 @@
 ### Hi there, I'm Nipa 👋
 
-[![Twitter Follow](![Twitter Followers](https://img.shields.io/twitter/follow/nipa_das_gupta?logo=twitter&style=social)](https://twitter.com/nipa_das_gupta)
+![Twitter Followers](https://img.shields.io/twitter/follow/nipa_das_gupta?logo=twitter&style=social)](https://twitter.com/nipa_das_gupta)
 
-[![Github Follow](![Github Followers](https://img.shields.io/github/followers/Nipa%20Das%20Gupta?style=social)](https://github.com/NipaDasGupta)
+![Github Followers](https://img.shields.io/github/followers/Nipa%20Das%20Gupta?style=social)](https://github.com/NipaDasGupta)
 
 
 ### I'm a Student, Developer, and Explorer!!
 
-- 🔭 Check out my Final Year Project Code : [https://github.com/NipaDasGupta/Drowsiness-Detector][urllink]!
+- 🔭 Check out my Final Year Project Code : [https://github.com/NipaDasGupta/Drowsiness-Detector][portfolio]!
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💼 I’m looking forward to get an internship job
 - 🥅 2022 Goals: Learn more about data science
