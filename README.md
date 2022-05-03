@@ -38,14 +38,8 @@
 
 ### Spotify Playing 🎧
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
 &nbsp; <br> [![Spotify](https://novatorem-nipadasgupta.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nipa)
 
-  </td>
-  <td width="50%">
 
 [twitter]: https://twitter.com/nipa_das_gupta
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
