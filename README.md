@@ -37,8 +37,14 @@
 <br />
 
 ### Spotify Playing 🎧
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+
 &nbsp; <br> [![Spotify](https://novatorem-5cuj7o1df-nipadasgupta/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nipa)
 
+  </td>
+  <td width="50%">
 <br />
 <br />
 
