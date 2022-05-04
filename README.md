@@ -5,7 +5,7 @@
 
 
 ### I'm a student, developer and Explorer!
-&nbsp; <br> 
+&nbsp; 
 - 🌱 I’m currently learning everything 🤣
 - 💪 I’m looking forward to get an internship job
 - 🥅 2022 Goals: Learn more about data science
