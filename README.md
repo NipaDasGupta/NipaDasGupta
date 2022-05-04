@@ -2,6 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nipa_das_gupta?color=orange&style=for-the-badge)][twitter]
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][portfolio]
+[![Email]([![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][email]
 
 
 ### I'm a student, developer and Explorer!
@@ -41,6 +42,7 @@
 &nbsp; <br> [![Spotify](https://novatorem-nipadasgupta.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/nipa)
 
 
+[email]: nipantika.nipa@gmail.com
 [twitter]: https://twitter.com/nipa_das_gupta
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
 [instagram]: https://www.instagram.com/nipa_das_gupta
