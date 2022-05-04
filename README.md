@@ -7,7 +7,7 @@
 ### I'm a student, developer and Explorer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👩‍💻 I’m looking forward to get an internship job in May Semester
+- 👩‍💻 I’m looking forward to get an internship job in May semester
 - 🥅 2022 Goals: Learn more about data science
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to dance, listen to music and read books 
