@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][portfolio]
 
 
-### I'm a student, developer and Explorer!
+### I'm a Student, Developer and Explorer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I’m looking forward to get an internship job in May semester
