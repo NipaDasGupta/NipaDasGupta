@@ -1,4 +1,4 @@
-## Hi there, My name is Nipa 👋
+## Hi there, My name is Nipa Das Gupta aka NipaDG 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nipa_das_gupta?color=orange&style=for-the-badge)][twitter]
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)][portfolio]
