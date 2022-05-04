@@ -7,8 +7,9 @@
 ### I'm a student, developer and Explorer!
 
 - 🌱 I’m currently learning everything 🤣
-- 💪 I’m looking forward to get an internship job
+- 👩‍💻 I’m looking forward to get an internship job
 - 🥅 2022 Goals: Learn more about data science
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to dance, listen to music and read books 
 
 
@@ -40,6 +41,9 @@
 
 &nbsp; <br> [![Spotify](https://spotify-nipadasgupta.vercel.app/api/spotify)](https://open.spotify.com/user/nipa)
 
+### GitHub Stats ⚡
+
+&nbsp; <br> 
 
 [email]: nipantika.nipa@gmail.com
 [twitter]: https://twitter.com/nipa_das_gupta
