@@ -41,9 +41,9 @@
 
 &nbsp; <br> [![Spotify](https://spotify-nipadasgupta.vercel.app/api/spotify)](https://open.spotify.com/user/nipa)
 
-### GitHub Stats ⚡
+### GitHub Stats 🌈
 
-&nbsp; <br> 
+&nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: nipantika.nipa@gmail.com
 [twitter]: https://twitter.com/nipa_das_gupta
