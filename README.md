@@ -50,4 +50,4 @@
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
 [instagram]: https://www.instagram.com/nipa_das_gupta
 [facebook]: https://www.facebook.com/profile.php?id=100075298908129
-[portfolio]: https://nipadasgupta.github.io/Portfolio
+[portfolio]: https://nipadasgupta.netlify.app/
