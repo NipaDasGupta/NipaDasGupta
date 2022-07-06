@@ -37,10 +37,6 @@
 <br />
 <br />
 
-<!-- ### Spotify Playing 🎧
-
-&nbsp; <br> [![Spotify](https://spotify-one-ashen.vercel.app/api/spotify)](https://open.spotify.com/user/31clohyizyt2l2uf5adjm6it635a) -->
-
 ### GitHub Stats 🌈
 
 &nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
