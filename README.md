@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-&nbsp; <br> [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/devicon-twitter-original.svg" style="padding-right:10px;" />][twitter]
+&nbsp; <br> [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/devicon-twitter-original" style="padding-right:10px;" />][twitter]
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" style="padding-right:10px;" />][instagram]
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
