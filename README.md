@@ -1,7 +1,7 @@
 ## Hi there, I am Nipa 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nipa_das_gupta?color=yellow&style=for-the-badge)][twitter]
-[![Portfolio](https://img.shields.io/website?color=yellow&style=for-the-badge&up_message=nipa&url=https%3A%2F%2Fnipadasgupta.netlify.app%2F)][portfolio]
+[![Twitter Follow](https://img.shields.io/twitter/follow/nipa_das_gupta?color=%23D0A4FF&style=for-the-badge)][twitter]
+[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=nipa&url=https%3A%2F%2Fnipadasgupta.netlify.app%2F)][portfolio]
 
 
 ### I'm a Student, Developer and Explorer!
