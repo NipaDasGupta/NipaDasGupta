@@ -37,9 +37,9 @@
 <br />
 <br />
 
-<!-- ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-&nbsp; <br> [![Spotify](https://spotify-nipadasgupta.vercel.app/api/spotify)](https://open.spotify.com/user/31clohyizyt2l2uf5adjm6it635a) -->
+&nbsp; <br> [![Spotify](https://spotify-nipadasgupta.vercel.app/api/spotify)](https://open.spotify.com/user/31clohyizyt2l2uf5adjm6it635a)
 
 ### GitHub Stats 🌈
 
