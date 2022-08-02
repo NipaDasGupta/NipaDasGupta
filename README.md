@@ -10,7 +10,7 @@
 - 👩‍💻 I’m doing my internship job currently
 - 🥅 2022 Goals: Learn more about data science
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: I love to dance, listen to music and read books 
+- ⚡ Fun fact: I love to read books, listen to music and dance
 
 
 ### Connect with me:
