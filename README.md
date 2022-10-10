@@ -7,7 +7,7 @@
 ### I'm a Student, Developer and Explorer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👩‍💻 I’m doing my internship job currently
+- 👩‍💻 I'm graduating from Nilai University currently
 - 🥅 2022 Goals: Learn more about data science
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: I love to read books, listen to music and dance
