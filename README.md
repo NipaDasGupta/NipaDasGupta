@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm graduating from Nilai University currently
 - 🥅 2022 Goals: Learn more about data science
-- 😄 Pronouns: She/her/hers
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to read books, listen to music and dance
 
 
