@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=nipa&url=https%3A%2F%2Fnipadasgupta.netlify.app%2F)][portfolio]
 
 
-### I'm a Student, Developer and Explorer!
+### I'm a Developer and Explorer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👩‍💻 I'm learning more about data science currently
