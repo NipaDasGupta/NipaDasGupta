@@ -17,6 +17,8 @@
 
 &nbsp; <br> [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/instagram-original.svg" style="padding-right:10px;" />][instagram]
+<br>
 [<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
 <br>
 
@@ -41,7 +43,8 @@
 &nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: nipantika.nipa@gmail.com
-[twitter]: https://twitter.com/codewithnipa
-[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
-[facebook]: https://www.facebook.com/profile.php?id=100075298908129
 [portfolio]: https://nipadasgupta.netlify.app/
+[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
+[twitter]: https://twitter.com/codewithnipa
+[instagram]: https://www.instagram.com/codewithnipa/
+[facebook]: https://www.facebook.com/profile.php?id=100075298908129
