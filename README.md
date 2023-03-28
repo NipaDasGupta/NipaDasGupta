@@ -41,7 +41,7 @@
 &nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: nipantika.nipa@gmail.com
-[twitter]: https://twitter.com/nipa_das_gupta
+[twitter]: https://twitter.com/codewithnipa
 [linkedin]: https://www.linkedin.com/in/nipa-das-gupta
 [facebook]: https://www.facebook.com/profile.php?id=100075298908129
 [portfolio]: https://nipadasgupta.netlify.app/
