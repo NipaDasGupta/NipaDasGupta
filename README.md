@@ -6,8 +6,7 @@
 
 ### I'm a Developer and Explorer!
 
-- 🌱 I’m currently learning everything 🤣
-- 👩‍💻 I'm learning more about data science currently
+- 🌱 I’m learning more about data science currently
 - 🥅 2023 Goals: Get a job
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to read books, listen to music and watch movies
