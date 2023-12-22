@@ -45,4 +45,4 @@
 [linkedin]: https://www.linkedin.com/in/nipadasgupta
 [twitter]: https://twitter.com/codewithnipa
 [instagram]: https://www.instagram.com/codewithnipa/
-[facebook]: https://www.facebook.com/profile.php?id=100075298908129
+[facebook]: https://web.facebook.com/codewithnipa
