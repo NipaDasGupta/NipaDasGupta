@@ -26,7 +26,6 @@ I'm a passionate developer on an exciting learning journey in **data science**. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipa-das-gupta)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/shejustgoogles)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/zerobugsfound)
-
 ---
 
 *"Every expert was once a beginner. Every pro was once an amateur."* ✨
