@@ -42,7 +42,7 @@
 
 [email]: nipantika.nipa+github@gmail.com
 [portfolio]: https://nipa-das-gupta.netlify.app/
-[linkedin]: https://www.linkedin.com/in/nipadasgupta
+[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
 [twitter]: https://twitter.com/XNipantika
 [instagram]: https://www.instagram.com/shejustgoogles
 [facebook]: https://web.facebook.com/zerobugsfound
