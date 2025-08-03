@@ -1,47 +1,43 @@
-## Hi there, I am Nipa 👋
+# Hi there, I'm Nipa 👋
 
-[![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=nipa&url=https%3A%2F%2Fnipa-das-gupta.netlify.app%2F)][portfolio]
+**Data Science Enthusiast & Developer** | She/her
 
+---
 
-### I'm a Developer and Explorer!
+## About Me
 
-- 🌱 I’m learning more about data science currently
-- 🥅 2025 Goals: Get a job
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to read books, listen to music, and watch movies
+I'm a passionate developer currently focused on expanding my knowledge in **data science**. My journey involves continuous learning and exploration of new technologies to solve real-world problems.
 
+**🎯 2025 Goal:** Get a job in the tech industry
 
-### Connect with me:
+**⚡ Fun Fact:** I love to read books, listen to music, and watch movies
 
-&nbsp; <br> [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="padding-right:10px;" />][twitter]
-[<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="padding-right:10px;" />][facebook]
-<br>
+---
 
+## 🛠️ Technologies & Tools
 
-### Languages and Tools:
+I work with a variety of technologies to bring ideas to life:
 
-&nbsp; <br> <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-<br />
-<br />
+- **IDE:** Visual Studio Code
+- **Languages:** Python, C/C++, HTML, CSS, JavaScript
+- **Version Control:** Git & GitHub
 
-### GitHub Stats 🌈
+---
 
-&nbsp; <br> [![Nipa's github stats](https://github-readme-stats.vercel.app/api?username=NipaDasGupta)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
 
-[email]: nipantika.nipa+github@gmail.com
-[portfolio]: https://nipa-das-gupta.netlify.app/
-[linkedin]: https://www.linkedin.com/in/nipa-das-gupta
-[twitter]: https://twitter.com/XNipantika
-[instagram]: https://www.instagram.com/shejustgoogles
-[facebook]: https://web.facebook.com/zerobugsfound
+*Stats section coming soon...*
+
+---
+
+## 📫 Connect With Me
+
+Let's connect and collaborate! I'm always open to discussing new opportunities and interesting projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipa-das-gupta)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shejustgoogles)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/zerobugsfound)
+
+---
+
+*Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on interesting projects.*
