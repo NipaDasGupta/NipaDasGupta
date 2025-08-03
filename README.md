@@ -1,6 +1,5 @@
 # Hi, I'm Nipa 👋
 
-**Pronouns:** She/her  
 **2025 Goal:** Get a job 🎯
 
 I'm a passionate developer on an exciting learning journey in **data science**. I love exploring new technologies, solving problems, and building meaningful projects that make a difference.
