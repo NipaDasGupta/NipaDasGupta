@@ -1,6 +1,5 @@
 ## Hi there, I am Nipa 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithnipa?color=d0a4ff&style=for-the-badge)][twitter]
 [![Portfolio](https://img.shields.io/website?style=for-the-badge&up_color=%23D0A4FF&up_message=nipa&url=https%3A%2F%2Fnipa-das-gupta.netlify.app%2F)][portfolio]
 
 
