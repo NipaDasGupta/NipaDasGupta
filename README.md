@@ -15,7 +15,7 @@ I'm a passionate developer on an exciting learning journey in **data science**. 
 ## 🛠️ Technologies & Tools
 
 ```
-💻 Editor:       VS Code
+💻 Editor:       VS Code, Cursor
 🐍 Languages:    Python, C/C++, JavaScript
 🌐 Web:          HTML, CSS, JavaScript
 🔧 Tools:        Git, GitHub
