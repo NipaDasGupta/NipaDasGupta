@@ -6,9 +6,9 @@
 ### I'm a Developer and Explorer!
 
 - 🌱 I’m learning more about data science currently
-- 🥅 2023 Goals: Get a job
+- 🥅 2025 Goals: Get a job
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I love to read books, listen to music and watch movies
+- ⚡ Fun fact: I love to read books, listen to music, and watch movies
 
 
 ### Connect with me:
